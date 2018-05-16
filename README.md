@@ -5,4 +5,4 @@ I just do what the guide tells me ...
 
 I should put some additional descriptive text into the commit 
 
-I am John Connors.  I live in Colchester Vermont. 
+I am John Connors and I live in Colchester Vermont. 
